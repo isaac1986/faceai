@@ -3,7 +3,7 @@
 Tesseract的OCR引擎最先由HP实验室于1985年开始研发，至1995年时已经成为OCR业内最准确的三款识别引擎之一。2005年，Tesseract由美国内华达州信息技术研究所获得，并求诸于Google对Tesseract进行改进、消除Bug、优化工作。Tesseract目前已作为开源项目发布在Google Project.
 
 运行环境：
->windows10 + python 3.6 + tesseract 4.0.0-beta.1
+>windows7 + python 3.8 + tesseract 5.0.0-alpha.20200328
 
 先看效果：
 ![](https://raw.githubusercontent.com/vipstone/faceai/master/res/tesseractOcr2.png)
