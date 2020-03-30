@@ -13,7 +13,7 @@ Tesseract的OCR引擎最先由HP实验室于1985年开始研发，至1995年时�
 >pip3 install pytesseract
 
 二、安装tesseract orc
-下载地址：https://github.com/UB-Mannheim/tesseract/wiki 点击“tesseract-ocr-w64-setup-v4.0.0-beta.1.20180414.exe”下载安装。
+下载地址：https://github.com/UB-Mannheim/tesseract/wiki 点击“tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe”下载安装。
 
 注意：安装的时候选中中文包。
 
