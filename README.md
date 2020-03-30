@@ -17,9 +17,10 @@
 
 # 开发环境 #
 
-- Windows 10（x64）
-- Python 3.6.4
-- OpenCV 3.4.1
+- Windows 7（x64）
+- Python 3.8.2
+- numpy-1.18.2
+- OpenCV 4.2.0
 - Dlib 19.8.1
 - face_recognition 1.2.2
 - keras 2.1.6
