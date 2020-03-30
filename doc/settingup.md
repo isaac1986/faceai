@@ -28,7 +28,6 @@ Successfully installed numpy-1.18.2
 
 
 ### 三、安装OpenCV ###
-同样安装OpenCV模块和numpy方式类似。
 
 https://pypi.tuna.tsinghua.edu.cn/simple/opencv-python/ 下载opencv_python-4.2.0.32-cp38-cp38-win_amd64.whl
 
