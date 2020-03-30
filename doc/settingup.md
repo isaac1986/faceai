@@ -50,7 +50,7 @@ import cv2
 
 print(cv2.__version__)
 
-# 输出：3.4.1
+# 输出：4.2.0
 ```
 上面我们简单的打印了OpenCV的版本号，如果能正常输出不报错，说明我们已经把OpenCV的python环境搭建ok了。
 
